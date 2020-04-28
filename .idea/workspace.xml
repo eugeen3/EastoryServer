@@ -2,50 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9102a95d-5c13-4279-9798-c502378167b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Spring_5_2_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eastoryserverspring.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/aopalliance-1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/commons-logging-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-aop-5.2.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-aspects-5.2.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-beans-5.2.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-context-5.2.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-context-support-5.2.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-core-5.2.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-expression-5.2.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-instrument-5.2.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-jdbc-5.2.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-jms-5.2.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-messaging-5.2.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-orm-5.2.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-oxm-5.2.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-test-5.2.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-tx-5.2.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eastoryserverspring/server/Server$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eastoryserverspring/server/Server$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eastoryserverspring/server/Server.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eastoryserverspring/server/ServerMain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eastoryserverspring/testing/Client$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eastoryserverspring/testing/Client.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eastoryserverspring/testing/Login$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eastoryserverspring/testing/Login$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eastoryserverspring/testing/Login.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eastoryserverspring/testing/Net$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eastoryserverspring/testing/Net.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eastoryserverspring/utils/ServerClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eastoryserverspring/utils/Session.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/eastoryserverspring/utils/UniqueID.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/server/Server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/server/ServerMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/testing/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/testing/Login.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/testing/Net.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/ServerClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/Session.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/UniqueID.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -57,6 +15,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="spring-beans.schema" />
       </list>
     </option>
   </component>
@@ -66,6 +25,7 @@
   <component name="ProjectId" id="1bAk2vPDwDUMSnqcVCybSHmJImE" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -129,8 +89,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588082081746</updated>
-      <workItem from="1588082086512" duration="3000000" />
+      <workItem from="1588082086512" duration="4324000" />
     </task>
+    <task id="LOCAL-00001" summary="init commit">
+      <created>1588085618528</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588085618528</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,5 +114,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
   </component>
 </project>
